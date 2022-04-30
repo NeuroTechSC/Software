@@ -19,8 +19,8 @@ main {
     height: 100%;
     background: rgb(65, 65, 65);
     display: flex;
-    justify-content: center;
-    align-items: center;
+    /* justify-content: center; */
+    /* align-items: center; */
 }
 
 p {
@@ -35,8 +35,8 @@ p {
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
-    width: 100vh;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
 }
 
 .box {
